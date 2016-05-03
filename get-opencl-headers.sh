@@ -1,5 +1,7 @@
 #!/bin/bash
 # Created by Robert Wang.
+# From: https://github.com/robertwgh/get-opencl-headers
+
 DIR=$(pwd)/include/
 
 echo "  Start downloading from Khronous's repository:"
